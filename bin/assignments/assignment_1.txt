@@ -1,0 +1,20 @@
+Assignmemt_1:
+===============
+
+1. Write a program to declare two local variables and print the values of those variables on the console.
+
+2. Write a program to declare two instance variables of type int and double respectively and print the values of those two variables on the console.
+
+3. Write a program to declare two static variables of type String and boolean respectively and print the values of those two variables on the console.
+
+4. Write a program to declare two instance variables and two static variables and call all these variables in instance method and then call the instance method in main method.
+
+5. Write a program to declare two instance variables and two static variables and call all these variables in static method and then call the static method in main method.
+
+6. Write a program to check whether th given number is even or odd.
+
+7. Write a program for the following scenario:
+	i. Given 5 subject marks and find the percentage of marks.
+		ex: int sub1=80, sub2=90, sub3=75, sub=69, sub5=75;
+	ii. Print "Grade A" if percentage is more than or equal to 90%, "Grade B" if percentage more than or equal to 75, 
+		"Grade C" if percentage is more than or equal to 50% and "Grade: Fail" if percentage is less than 50%
