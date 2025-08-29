@@ -12,11 +12,18 @@ public class MethodsDemo9 {
 		
 	}
 	
+	static void getInfo() {
+		System.out.println("static getInfo method");
+
+	}
+	
 	public static void main(String[] args) {
 		
 		MethodsDemo9 obj = new MethodsDemo9();
 		String user = obj.login("TestUser@gmail.com");
 		System.out.println(user);
+		
+		MethodsDemo9.getInfo();
 		
 	}
 
