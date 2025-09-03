@@ -1,0 +1,13 @@
+Constructors:
+--------------
+1. Write a program to define no-arg constructor and assign values to instance variables and print them on the console.
+
+2. Write a program to define parameterized constructor and assign values to instance variables and print them on the console.
+
+3. Write a program to initialize the local variable values to instance variables using 'this' keyword inside parameterized constructor.
+
+4. Write a program to call no-arg constructor inside another parameterized constructor.
+
+5. Write a program to call parameterized constructor inside another parameterized constructor.
+
+6. Write a program to pass user defined class object as parameter for constructor and call all the instance variables/methods using object inside constructor.
