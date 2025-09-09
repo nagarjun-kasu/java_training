@@ -32,6 +32,10 @@ public class Child1 extends Parent1{
 		
 		obj.method5("localuser1", "localpassword@123");
 		
+		//obj.display();
+		
+		Parent1.display();
+		
 		
 	}
 	
