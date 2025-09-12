@@ -13,7 +13,7 @@ public class MethodOverloading {
 	
 
 	//method to add three numbers and return sum
-	int add(int a,int b, int c) {
+	int add(int a, int b, int c) {
 		return a+b+c;
 	}
 	
